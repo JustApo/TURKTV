@@ -1,199 +1,205 @@
-#EXTM3U
+group,Channels
+TRT1.tr,Trt 1 HD,http://plustlc.com:8080/live/muratacar/10.05.2019/798.ts
+TRT1.tr,Trt 1 FHD,http://plustlc.com:8080/live/muratacar/10.05.2019/700.ts
+ATV.am,Atv HD,http://plustlc.com:8080/live/muratacar/10.05.2019/793.ts
+ATV.am,Atv FHD,http://plustlc.com:8080/live/muratacar/10.05.2019/703.ts
+ext,Atv Euro,http://plustlc.com:8080/live/muratacar/10.05.2019/4939.ts
+KanalD.tr,Kanal D HD,http://plustlc.com:8080/live/muratacar/10.05.2019/791.ts
+KanalD.tr,Kanal D FHD,http://plustlc.com:8080/live/muratacar/10.05.2019/714.ts
+ext,Kanal D Euro,http://plustlc.com:8080/live/muratacar/10.05.2019/4940.ts
+A2.tr,A2 Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/726.ts
+fox-hd,Fox HD,http://plustlc.com:8080/live/muratacar/10.05.2019/794.ts
+Fox.tr,Fox Tv FHD,http://plustlc.com:8080/live/muratacar/10.05.2019/709.ts
+Start.tr,Star TV HD,http://plustlc.com:8080/live/muratacar/10.05.2019/796.ts
+Start.tr,Star TV FHD,http://plustlc.com:8080/live/muratacar/10.05.2019/724.ts
+ext,Star Tv Euro,http://plustlc.com:8080/live/muratacar/10.05.2019/4942.ts
+ShowTV.tr,Show TV HD,http://plustlc.com:8080/live/muratacar/10.05.2019/795.ts
+ShowTV.tr,Show TV FHD,http://plustlc.com:8080/live/muratacar/10.05.2019/719.ts
+ext,Show Tv Euro,http://plustlc.com:8080/live/muratacar/10.05.2019/4941.ts
+tv8-lt,TV8 HD,http://plustlc.com:8080/live/muratacar/10.05.2019/799.ts
+tv8-lt,Tv8 FHD,http://plustlc.com:8080/live/muratacar/10.05.2019/790.ts
+ext,Tv8.5,http://plustlc.com:8080/live/muratacar/10.05.2019/789.ts
+TRT2.tr,Trt 2 HD,http://plustlc.com:8080/live/muratacar/10.05.2019/787.ts
+ext,Trt 4K,http://plustlc.com:8080/live/muratacar/10.05.2019/21769.ts
+TRTKurdi.tr,TRT Kurdi,http://plustlc.com:8080/live/muratacar/10.05.2019/694.ts
+TRTDIYANET.tr,Trt Diyanet,http://plustlc.com:8080/live/muratacar/10.05.2019/12772.ts
+TRTturk.tr,Trt Turk,http://plustlc.com:8080/live/muratacar/10.05.2019/12774.ts
+TRTWorld.uk,Trt World,http://plustlc.com:8080/live/muratacar/10.05.2019/12775.ts
+ext,Teve 2,http://plustlc.com:8080/live/muratacar/10.05.2019/669.ts
+BEYAZTV.tr,Beyaz TV,http://plustlc.com:8080/live/muratacar/10.05.2019/693.ts
+Kanal7.tr,Kanal 7,http://plustlc.com:8080/live/muratacar/10.05.2019/674.ts
+ext,Cay TV,http://plustlc.com:8080/live/muratacar/10.05.2019/801.ts
+ext,Ekotürk Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/691.ts
+ext,Kon Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/4938.ts
+CemTv.tr,Cem TV,http://plustlc.com:8080/live/muratacar/10.05.2019/731.ts
+ext,Tv A,http://plustlc.com:8080/live/muratacar/10.05.2019/4549.ts
+ext,Haber 61,http://plustlc.com:8080/live/muratacar/10.05.2019/35330.ts
+ext,Krt Tv HD,http://plustlc.com:8080/live/muratacar/10.05.2019/38461.ts
+ext,Dost Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/35326.ts
+ext,Kudus Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/35328.ts
+ext,Lalegül Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/35325.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YZG9MRS/turktv.png",itasli.github.io/TURKTV
-https://i.ibb.co/YZG9MRS/turktv.png
+group,| Haber |
+ext,------| Haber |------,http://plustlc.com:8080/live/muratacar/10.05.2019/1890.ts
+TRTHaber.tr,Trt Haber HD,http://plustlc.com:8080/live/muratacar/10.05.2019/668.ts
+AHaber.tr,A Haber HD,http://plustlc.com:8080/live/muratacar/10.05.2019/696.ts
+ext,Ulusal TV HD,http://plustlc.com:8080/live/muratacar/10.05.2019/20927.ts
+ntv,Ntv HD,http://plustlc.com:8080/live/muratacar/10.05.2019/776.ts
+ext,Haber Global HD,http://plustlc.com:8080/live/muratacar/10.05.2019/26605.ts
+ext,Cnn Turk Haber HD,http://plustlc.com:8080/live/muratacar/10.05.2019/680.ts
+UlkeTV.tr,Ulke TV HD,http://plustlc.com:8080/live/muratacar/10.05.2019/676.ts
+HABERTURK.tr,Haberturk HD,http://plustlc.com:8080/live/muratacar/10.05.2019/683.ts
+ext,Benguturk,http://plustlc.com:8080/live/muratacar/10.05.2019/802.ts
+BLOOMBERG.tr,Bloomberg HT,http://plustlc.com:8080/live/muratacar/10.05.2019/678.ts
+ext,Haber 24,http://plustlc.com:8080/live/muratacar/10.05.2019/9449.ts
+podmoskovie,360,http://plustlc.com:8080/live/muratacar/10.05.2019/7107.ts
+TGRTHaber.tr,Tgrt Haber,http://plustlc.com:8080/live/muratacar/10.05.2019/10425.ts
+HalkTV.tr,Halk TV HD,http://plustlc.com:8080/live/muratacar/10.05.2019/772.ts
+ext,Uzay Haber,http://plustlc.com:8080/live/muratacar/10.05.2019/804.ts
+ext,Tele 1 HD,http://plustlc.com:8080/live/muratacar/10.05.2019/13268.ts
+Tv100.tr,Tv 100 Sd,http://plustlc.com:8080/live/muratacar/10.05.2019/35531.ts
+tv5,TV5,http://plustlc.com:8080/live/muratacar/10.05.2019/35594.ts
 
-#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png",TRT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
+group,| Sinema |
+ext,------| Sinema |------,http://plustlc.com:8080/live/muratacar/10.05.2019/1891.ts
+ext,Vip Channel HD,http://plustlc.com:8080/live/muratacar/10.05.2019/1688.ts
+ext,Vip Channel HD 2,http://plustlc.com:8080/live/muratacar/10.05.2019/1707.ts
+ext,Loca 1 Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/1703.ts
+ext,Loca 2 Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/1704.ts
+ext,Loca 3 Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/1705.ts
+ext,Red Sinema Club  HD 1,http://plustlc.com:8080/live/muratacar/10.05.2019/26961.ts
+ext,Red Sinema Club  HD 2,http://plustlc.com:8080/live/muratacar/10.05.2019/26962.ts
+ext,Red Sinema Club  HD 3,http://plustlc.com:8080/live/muratacar/10.05.2019/26963.ts
+ext,Red Sinema Club  HD 4,http://plustlc.com:8080/live/muratacar/10.05.2019/26964.ts
+ext,Red Sinema Club  HD 5,http://plustlc.com:8080/live/muratacar/10.05.2019/27019.ts
+ext,Red Sinema Club  HD 6,http://plustlc.com:8080/live/muratacar/10.05.2019/27025.ts
+ext,Red Sinema Club  HD 7,http://plustlc.com:8080/live/muratacar/10.05.2019/27026.ts
+ext,Red Sinema Club  HD 8,http://plustlc.com:8080/live/muratacar/10.05.2019/27027.ts
+ext,Red Sinema Club  HD 9,http://plustlc.com:8080/live/muratacar/10.05.2019/27028.ts
+ext,Red Sinema Club  HD 10,http://plustlc.com:8080/live/muratacar/10.05.2019/27029.ts
+ext,Cine + HD Turk 1,http://plustlc.com:8080/live/muratacar/10.05.2019/6924.ts
+ext,Cine + HD Turk 2,http://plustlc.com:8080/live/muratacar/10.05.2019/6923.ts
+ext,Cine + HD Turk 3,http://plustlc.com:8080/live/muratacar/10.05.2019/6922.ts
+ext,Cine + HD 1,http://plustlc.com:8080/live/muratacar/10.05.2019/4983.ts
+ext,Cine + HD  2,http://plustlc.com:8080/live/muratacar/10.05.2019/4984.ts
+ext,Cine + HD 3,http://plustlc.com:8080/live/muratacar/10.05.2019/4985.ts
+ext,Cine + HD 4,http://plustlc.com:8080/live/muratacar/10.05.2019/4986.ts
+ext,Cine + HD 5,http://plustlc.com:8080/live/muratacar/10.05.2019/4987.ts
+ext,Cine + HD 6,http://plustlc.com:8080/live/muratacar/10.05.2019/4988.ts
+ext,Cine + HD 7,http://plustlc.com:8080/live/muratacar/10.05.2019/4989.ts
+ext,Cine + HD 8,http://plustlc.com:8080/live/muratacar/10.05.2019/4990.ts
+ext,Cine + HD 9,http://plustlc.com:8080/live/muratacar/10.05.2019/4991.ts
+ext,Cine + HD 10,http://plustlc.com:8080/live/muratacar/10.05.2019/4992.ts
+Salon1.tr,Bein Box Office 1 Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/1699.ts
+Salon2.tr,Bein Box Office 2 Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/1700.ts
+Salon3.tr,Bein Box Office 3 Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/1701.ts
+ext,Yesilcam 1 Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/1709.ts
+ext,Kovboy Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/36315.ts
+ext,Kemal Sunal Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/7057.ts
+ext,Kadir Inanir Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/7058.ts
+ext,Olacak O Kadar,http://plustlc.com:8080/live/muratacar/10.05.2019/38368.ts
+ext,Yeşilçam HD 1,http://plustlc.com:8080/live/muratacar/10.05.2019/74141.ts
+ext,Yeşilçam HD 2,http://plustlc.com:8080/live/muratacar/10.05.2019/74142.ts
+ext,Yeşilçam HD 3,http://plustlc.com:8080/live/muratacar/10.05.2019/74143.ts
+ext,Vip Channel Aile HD 1,http://plustlc.com:8080/live/muratacar/10.05.2019/74338.ts
+ext,Vip Channel Aksiyon HD 1,http://plustlc.com:8080/live/muratacar/10.05.2019/74340.ts
+ext,Vip Channel Suç HD 1,http://plustlc.com:8080/live/muratacar/10.05.2019/74342.ts
+ext,Vip Channel Korku HD 1,http://plustlc.com:8080/live/muratacar/10.05.2019/74344.ts
+ext,Vip Channel Bilim Kurgu HD 1,http://plustlc.com:8080/live/muratacar/10.05.2019/74346.ts
+ext,Vip Channel Dram HD 1,http://plustlc.com:8080/live/muratacar/10.05.2019/74348.ts
+ext,Vip Channel Gizem HD 1,http://plustlc.com:8080/live/muratacar/10.05.2019/74350.ts
+MoviemaxAction2.tr,Bein Movies Action 2 Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/1694.ts
+MoviemaxAction.tr,Bein Movies Action Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/1697.ts
+MoviemaxFamily.tr,Bein Movies Family Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/1693.ts
+MoviemaxTurk.tr,Bein Movies Turk Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/1689.ts
+MoviemaxPremier2.tr,Bein Movies Premiere 2 Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/1696.ts
+MoviemaxPremier.tr,Bein Movies Premiere Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/1695.ts
+MoviemaxStars.tr,Bein Movies Stars Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/1690.ts
+DizimaxSci-fi.tr,Bein Series Sci-fi Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/768.ts
+DizimaxComedy.tr,Bein Series Comedy Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/6914.ts
+DizimaxDrama.tr,Bein Series Drama Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/6903.ts
+DizimaxVice.tr,Bein Series Vice Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/6902.ts
+ext,D-Smart Moviesmart Classic,http://plustlc.com:8080/live/muratacar/10.05.2019/769.ts
+ext,D-Smart Moviesmart Premium 2 HD,http://plustlc.com:8080/live/muratacar/10.05.2019/774.ts
+ext,D-Smart Dizi Smart Max Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/722.ts
+ext,Sinema Yerli Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/13267.ts
+ext,SiNEMA YERLi 2,http://plustlc.com:8080/live/muratacar/10.05.2019/29588.ts
+ext,Sinema Aile HD,http://plustlc.com:8080/live/muratacar/10.05.2019/721.ts
+ext,SiNEMA AiLE 2,http://plustlc.com:8080/live/muratacar/10.05.2019/29587.ts
+ext,Sinema TV HD,http://plustlc.com:8080/live/muratacar/10.05.2019/9842.ts
+ext,Sinema  1001 Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/28586.ts
+ext,Sinema 1002 Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/28587.ts
+ext,Sinema Komedi 1 Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/28588.ts
+ext,Sinema 2 HD,http://plustlc.com:8080/live/muratacar/10.05.2019/28875.ts
+ext,Sinema Tv Aksiyon HD,http://plustlc.com:8080/live/muratacar/10.05.2019/6925.ts
+fox-crime,Fox Crime HD,http://plustlc.com:8080/live/muratacar/10.05.2019/13270.ts
+ext,3D Sinema 1,http://plustlc.com:8080/live/muratacar/10.05.2019/73616.ts
+ext,3D Sinema,http://plustlc.com:8080/live/muratacar/10.05.2019/69473.ts
+ext,4k sinema,http://plustlc.com:8080/live/muratacar/10.05.2019/73298.ts
 
-#EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
+group,| Dizi |
+ext,------| Dizi |------,http://plustlc.com:8080/live/muratacar/10.05.2019/3213.ts
+ext,D-Smart Dizi Premium HD,http://plustlc.com:8080/live/muratacar/10.05.2019/770.ts
+ext,D-Smart FX,http://plustlc.com:8080/live/muratacar/10.05.2019/710.ts
 
-#EXTINF:-1 tvg-id="ATV Avrupa" tvg-name="ATV Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/k4yHhn7/atvavrupa.png",ATV Avrupa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://antalya.tvizlehd.com/live/atvavrupa.m3u8
+group,| Belgesel |
+ext,------| Belgesel |------,http://plustlc.com:8080/live/muratacar/10.05.2019/1894.ts
+TRTBelgesel.tr,Trt Belgesel,http://plustlc.com:8080/live/muratacar/10.05.2019/682.ts
+tlc-russia,Tlc.,http://plustlc.com:8080/live/muratacar/10.05.2019/679.ts
+DiscoveryDMAX.uk,Dmax,http://plustlc.com:8080/live/muratacar/10.05.2019/692.ts
+ext,D-smart Bbc Earth Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/704.ts
+ext,D-Smart National Geographic Wild HD,http://plustlc.com:8080/live/muratacar/10.05.2019/711.ts
+ext,D-Smart Discovery Channel HD,http://plustlc.com:8080/live/muratacar/10.05.2019/766.ts
+ext,beIN National Geographic HD,http://plustlc.com:8080/live/muratacar/10.05.2019/758.ts
+ext,D-Smart Viasat History HD,http://plustlc.com:8080/live/muratacar/10.05.2019/784.ts
+24Kitchen.pt,24 Kitchen HD,http://plustlc.com:8080/live/muratacar/10.05.2019/19999.ts
+Animaux.fr,ANIMAUX,http://plustlc.com:8080/live/muratacar/10.05.2019/31668.ts
+ext,AUTOMOTO HD,http://plustlc.com:8080/live/muratacar/10.05.2019/31667.ts
+IZTV.tr,Iz Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/20838.ts
+discov_sci,Discovery Science HD,http://plustlc.com:8080/live/muratacar/10.05.2019/21118.ts
+outdoor,Outdoor Channel,http://plustlc.com:8080/live/muratacar/10.05.2019/21119.ts
+TurkmaxGurme.tr,beIN Gurme HD,http://plustlc.com:8080/live/muratacar/10.05.2019/21749.ts
+ext,Sicience&Vie Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/35529.ts
+ext,Uçankuş Tv HD,http://plustlc.com:8080/live/muratacar/10.05.2019/73331.ts
+ext,History Channel HD (Tivibu),http://plustlc.com:8080/live/muratacar/10.05.2019/73348.ts
 
-#EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png",Show TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
+group,| Cizgi Film |
+ext,------| Cizgi Film |------,http://plustlc.com:8080/live/muratacar/10.05.2019/1895.ts
+ext,Animasyon Turk HD,http://plustlc.com:8080/live/muratacar/10.05.2019/73617.ts
+ext,Cine + HD Animasyon 1,http://plustlc.com:8080/live/muratacar/10.05.2019/6915.ts
+ext,Cine + HD Animasyon 2,http://plustlc.com:8080/live/muratacar/10.05.2019/6916.ts
+ext,Cine + HD Animasyon 3,http://plustlc.com:8080/live/muratacar/10.05.2019/6917.ts
+ext,D-Smart Boomerang Cocuk,http://plustlc.com:8080/live/muratacar/10.05.2019/701.ts
+ext,D-Smart Smart Cocuk,http://plustlc.com:8080/live/muratacar/10.05.2019/723.ts
+ext,Can Çocuk Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/35528.ts
+ext,Canım Kardeşim Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/35527.ts
+ext,Maşa ile Koca Ayı Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/35522.ts
+ext,Niloya Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/35523.ts
+ext,Pepe Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/35526.ts
+ext,Kukuli Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/35539.ts
+TRTCocuk.tr,Trt Cocuk,http://plustlc.com:8080/live/muratacar/10.05.2019/786.ts
+BabyTV.fr,Baby TV HD,http://plustlc.com:8080/live/muratacar/10.05.2019/13269.ts
+MinikaCocuk.tr,Minika Cocuk,http://plustlc.com:8080/live/muratacar/10.05.2019/667.ts
+MinikaGo.tr,Minika Go,http://plustlc.com:8080/live/muratacar/10.05.2019/670.ts
+disney,Disney Channel,http://plustlc.com:8080/live/muratacar/10.05.2019/706.ts
+cartoon,Cartoon Network,http://plustlc.com:8080/live/muratacar/10.05.2019/4933.ts
+ext,3d Animasyon,http://plustlc.com:8080/live/muratacar/10.05.2019/69472.ts
 
-#EXTINF:-1 tvg-id="Show Türk" tvg-name="Show Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xJZR1jT/showturk.png",Show Türk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
+group,| Muzik |
+ext,------| Muzik |------,http://plustlc.com:8080/live/muratacar/10.05.2019/1892.ts
+ext,Red Music Club Pop1,http://plustlc.com:8080/live/muratacar/10.05.2019/35252.ts
+ext,Red Music Club Yabancı 1,http://plustlc.com:8080/live/muratacar/10.05.2019/35254.ts
+NumberOneTurk.tr,Number One Turk,http://plustlc.com:8080/live/muratacar/10.05.2019/777.ts
+ext,Power  Turk,http://plustlc.com:8080/live/muratacar/10.05.2019/685.ts
+PowerTV.tr,Power Tv HD,http://plustlc.com:8080/live/muratacar/10.05.2019/4552.ts
+DreamTurk.tr,Dream Turk,http://plustlc.com:8080/live/muratacar/10.05.2019/12755.ts
+TRTMuzik.tr,Trt Muzik,http://plustlc.com:8080/live/muratacar/10.05.2019/671.ts
 
-#EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png",Star TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
-
-#EXTINF:-1 tvg-id="EuroStar" tvg-name="EuroStar" tvg-language="Turkish" tvg-logo="https://i.ibb.co/r4SLvnN/eurostar.png",EuroStar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
-
-#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2ttHzC4/kanald.png",Kanal D
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
-
-#EXTINF:-1 tvg-id="Euro D" tvg-name="Euro D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/C9YcngF/eurod.png",Euro D
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
-
-#EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pxHprXH/fox.png",FOX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xzqBQ5n/kanal7.png",Kanal 7
-https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-
-#EXTINF:-1 tvg-id="Kanal 7 Avrupa" tvg-name="Kanal 7 Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1rhzvp0/kanal7avrupa.png",Kanal 7 Avrupa
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png",TV8
-http://213.115.248.46:9000/TR_-_TV_8_HD_PLUS/index.m3u8
-
-#EXTINF:-1 tvg-id="TV8 INT" tvg-name="TV8 INT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyjrbR7/tv8int.png",TV8 INT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
-
-#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png",TV8.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
-
-#EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png",Teve2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RCYWMyN/360.png",360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-
-#EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png",Beyaz TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
-
-#EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png",A2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://antalya.tvizlehd.com/live/a2tv.m3u8
-
-#EXTINF:-1 tvg-id="Show Max" tvg-name="Show Max" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gWMPdrc/showmax.png",Show Max
-https://aeonian-wage.000webhostapp.com/kanal/showmax.php
-
-#EXTINF:-1 tvg-id="Afyon Türk TV" tvg-name="Afyon Türk TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hXrJgs9/afyonturk.png",Afyon Türk TV
-https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cine5 TV" tvg-name="Cine5 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HFLtSG8/cine5.png",Cine5 TV
-https://host.onlineradyotv.net:8081/cine5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQs3vjD/trtcocuk.png",TRT Çocuk
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="Minika Go" tvg-name="Minika Go" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cQM08hH/minikago.png",Minika Go
-http://missing
-
-#EXTINF:-1 tvg-id="Minika Çocuk" tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3RVSssb/minikacocuk.png",Minika Çocuk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://antalya.tvizlehd.com/live/minikacocuk.m3u8
-
-#EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bWCndfr/ahbr.png",A Haber
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://antalya.tvizlehd.com/live/ahaber.m3u8
-
-#EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg",TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YWsrfZx/ntv.png",NTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_ntv_dvr/live_720p2000000/index.m3u8
-
-#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Mks8wFS/trthaber.jpg",TRT Haber
-https://tv-trthaber.live.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7SXmSz4/tgrthaber.png",TGRT Haber
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 tvg-id="HABERGLOBAL" tvg-name="HABERGLOBAL" tvg-language="Turkish" tvg-logo="https://i.ibb.co/mTTgWjy/haberglobal.png",HABERGLOBAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000/index.m3u8
-
-#EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Hd6cPGm/haberturk.png",HABERTURK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_haberturk_dvr/live_720p2000000/index.m3u8
-
-#EXTINF:-1 tvg-id="Bloomberg HT" tvg-name="Bloomberg HT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DVRzygX/bloomberg.jpg",Bloomberg HT
-https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-
-#EXTINF:-1 tvg-id="24 TV" tvg-name="24 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2v2W5g1/24.png",24 TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
-#https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-
-#EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/5W0L35x/cnnturk.png",CNN Türk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Halk TV" tvg-name="Halk TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZSBB9GG/halktv.png",Halk TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_halktv2/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 tvg-id="Akit TV" tvg-name=""Akit TV tvg-language="Turkish" tvg-logo="https://i.ibb.co/kxRndv8/logo.png",Akit TV
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-
-#EXTINF:-1 tvg-id="Tele 1" tvg-name="Tele 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Yq2m25/tele1.png",Tele 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
-
-#EXTINF:-1 tvg-id="Diyanet TV" tvg-name="Diyanet TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4VCTd55/logo.png",Diyanet TV
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/rz1dvIHz4QFoG_0.m3u8
-
-#EXTINF:-1 tvg-id="Lalegül TV" tvg-name="Lalegül TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HXMLHcS/lalegul.jpg",Lalegül TV
-https://lbl.netmedya.net/hls/lalegultv.m3u8
-
-#EXTINF:-1 tvg-id="Semerkand TV" tvg-name="Semerkand TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QHq642F/logo.png",Semerkand TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist_b500000.m3u8
-
-#EXTINF:-1 tvg-id="DOST TV" tvg-name="DOST TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/LrDzHxW/dost.png",DOST TV
-#http://137.74.150.14:8080/permabil/DOSTtv/index.m3u8
-http://dost.stream.emsal.im/tv/live.m3u8
-
-#EXTINF:-1 tvg-id="Tivibu Spor" tvg-name="Tivibu Spor" tvg-language="Turkish" logo="https://i.ibb.co/r7C1DMG/tivibuspor.png",Tivibu Spor
-http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SJ3BGgP/aspor.png",a Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-
-#EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Turkish" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png",TRT Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
-
-#EXTINF:-1 tvg-id="TRT Spor Yildiz" tvg-name="TRT Spor Yildiz" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FBzsCSY/trtsporyildiz.jpg",TRT Spor Yildiz
-https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
-
-#EXTINF:-1 tvg-id="Sports TV" tvg-name="Sports TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TBqyqRx/sportstv.png",Sports TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png",TLC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8
-
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-language="Turkish" tvg-logo="https://i.ibb.co/412LJ1F/dmax.png",DMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/60995084866ac3099473a292.png",INVESTIGATION DISCOVERY
-https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
-
-#EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyXRfXw/trtbelgesel.png",TRT Belgesel 
-#https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
-https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="TGRT Belgesel" tvg-name="TGRT Belgesel" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvjSpv8/Tj2G5lV.png",TGRT Belgesel
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
-
-#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/6111016b866ac30acc27b1ff.png",BLUTV BELGESEL
-https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
-
-#EXTINF:-1 tvg-id="YABAN TV" tvg-name="YABAN TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/319WZ5f/yaban.png",YABAN TV
-https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+group,KIBRIS
+ext,***** KIBRIS *****,http://plustlc.com:8080/live/muratacar/10.05.2019/21128.ts
+ext,Kb | Brt 1,http://plustlc.com:8080/live/muratacar/10.05.2019/21127.ts
+ext,Kanal 68 Aksaray,http://plustlc.com:8080/live/muratacar/10.05.2019/55085.ts
+ext,Kent Turk,http://plustlc.com:8080/live/muratacar/10.05.2019/55086.ts
+ext,A Para Hd,http://plustlc.com:8080/live/muratacar/10.05.2019/55087.ts
+ext,Edessa Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/55088.ts
+ext,Fm Tv,http://plustlc.com:8080/live/muratacar/10.05.2019/55089.ts
